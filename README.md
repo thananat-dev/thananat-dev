@@ -34,9 +34,9 @@ Experienced Software Developer of more than 4 years with a demonstrated history 
 <p align="left"> <a href="https://www.github.com/thananat-dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/thananat-rueangchot-782a0b162/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
-
+<!-- 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/thananat-dev"><img src="https://github-readme-stats.vercel.app/api?username=thananat-dev&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="thananat-dev's GitHub stats" /></a>
+<a href="http://www.github.com/thananat-dev"><img src="https://github-readme-stats.vercel.app/api?username=thananat-dev&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="thananat-dev's GitHub stats" /></a> -->
 
 <a href="http://www.github.com/thananat-dev"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=thananat-dev&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
